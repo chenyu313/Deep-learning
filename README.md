@@ -6,3 +6,5 @@
 ## 线性回归
 ## 线性回归代码实现
 ## 线性回归简洁实现
+
+# [References](https://zh.d2l.ai/chapter_preface/index.html)
