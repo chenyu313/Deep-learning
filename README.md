@@ -11,4 +11,5 @@
 ### [线性回归简洁实现](https://github.com/chenyu313/Deep-learning/blob/main/4-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E7%AE%80%E6%B4%81%E5%AE%9E%E7%8E%B0.ipynb)
 ### [softmax回归](https://github.com/chenyu313/Deep-learning/blob/main/5-softmax%E5%9B%9E%E5%BD%92.ipynb)
 
-## [References](https://zh.d2l.ai/chapter_preface/index.html)
+## end-参考
+### [References](https://zh.d2l.ai/chapter_preface/index.html)
