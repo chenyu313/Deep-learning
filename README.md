@@ -18,6 +18,8 @@
 ### [多层感知机介绍](https://github.com/chenyu313/Deep-learning/blob/main/ch3/9-%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E6%9C%BA.ipynb)
 ### [多层感知机从零开始实现](https://github.com/chenyu313/Deep-learning/blob/main/ch3/10-%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E6%9C%BA%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%AE%9E%E7%8E%B0.ipynb)
 ### [多层感知机简洁实现](https://github.com/chenyu313/Deep-learning/blob/main/ch3/11-%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E6%9C%BA%E7%AE%80%E6%B4%81%E5%AE%9E%E7%8E%B0.ipynb)
+### [模型选择、过拟合和欠拟合]()
+### [权重衰减]()
 
 ## end-参考
 ### [References](https://zh.d2l.ai/chapter_preface/index.html)
