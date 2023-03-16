@@ -20,8 +20,8 @@
 ### [多层感知机简洁实现](https://github.com/chenyu313/Deep-learning/blob/main/ch3/11-%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E6%9C%BA%E7%AE%80%E6%B4%81%E5%AE%9E%E7%8E%B0.ipynb)
 ### [模型选择、过拟合和欠拟合](https://github.com/chenyu313/Deep-learning/blob/main/ch3/12-%E6%A8%A1%E5%9E%8B%E9%80%89%E6%8B%A9%E3%80%81%E8%BF%87%E6%8B%9F%E5%90%88%E5%92%8C%E6%AC%A0%E6%8B%9F%E5%90%88.ipynb)
 ### [权重衰减](https://github.com/chenyu313/Deep-learning/blob/main/ch3/13-%E6%9D%83%E9%87%8D%E8%A1%B0%E5%87%8F.ipynb)
-### [暂退法]()
-### [前向传播、反向传播和计算图]()
+### [暂退法](https://github.com/chenyu313/Deep-learning/blob/main/ch3/14-%E6%9A%82%E9%80%80%E6%B3%95_Dropout.ipynb)
+### [前向传播、反向传播和计算图](https://github.com/chenyu313/Deep-learning/blob/main/ch3/15-%E5%89%8D%E5%90%91%E4%BC%A0%E6%92%AD%E3%80%81%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E5%92%8C%E8%AE%A1%E7%AE%97%E5%9B%BE.ipynb)
 
 ## end-参考
 ### [References](https://zh.d2l.ai/chapter_preface/index.html)
