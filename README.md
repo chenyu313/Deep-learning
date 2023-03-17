@@ -22,6 +22,9 @@
 ### [权重衰减](https://github.com/chenyu313/Deep-learning/blob/main/ch3/13-%E6%9D%83%E9%87%8D%E8%A1%B0%E5%87%8F.ipynb)
 ### [暂退法](https://github.com/chenyu313/Deep-learning/blob/main/ch3/14-%E6%9A%82%E9%80%80%E6%B3%95_Dropout.ipynb)
 ### [前向传播、反向传播和计算图](https://github.com/chenyu313/Deep-learning/blob/main/ch3/15-%E5%89%8D%E5%90%91%E4%BC%A0%E6%92%AD%E3%80%81%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E5%92%8C%E8%AE%A1%E7%AE%97%E5%9B%BE.ipynb)
+### [数值稳定性和模型初始化]()
+### [环境和分布偏移]()
+### [实战kaggle：预测房价]()
 
 ## end-参考
 ### [References](https://zh.d2l.ai/chapter_preface/index.html)
