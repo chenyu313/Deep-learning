@@ -26,5 +26,8 @@
 ### [环境和分布偏移](https://github.com/chenyu313/Deep-learning/blob/main/ch3/17-%E7%8E%AF%E5%A2%83%E5%92%8C%E5%88%86%E5%B8%83%E5%81%8F%E7%A7%BB.ipynb)
 ### [实战kaggle：预测房价](https://github.com/chenyu313/Deep-learning/blob/main/ch3/18-%E5%AE%9E%E6%88%98kaggle%E6%AF%94%E8%B5%9B-%E9%A2%84%E6%B5%8B%E6%88%BF%E4%BB%B7.ipynb)
 
+## ch4-深度学习计算
+### [层与块]()
+
 ## end-参考
 ### [References](https://zh.d2l.ai/chapter_preface/index.html)
