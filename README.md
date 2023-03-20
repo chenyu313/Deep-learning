@@ -28,6 +28,7 @@
 
 ## ch4-深度学习计算
 ### [层与块]()
+### [参数管理]()
 
 ## end-参考
 ### [References](https://zh.d2l.ai/chapter_preface/index.html)
