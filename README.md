@@ -27,11 +27,11 @@
 ### [实战kaggle：预测房价](https://github.com/chenyu313/Deep-learning/blob/main/ch3/18-%E5%AE%9E%E6%88%98kaggle%E6%AF%94%E8%B5%9B-%E9%A2%84%E6%B5%8B%E6%88%BF%E4%BB%B7.ipynb)
 
 ## ch4-深度学习计算
-### [层与块]()
-### [参数管理]()
-### [自定义层]()
-### [读写文件]()
-### [GPU]()
+### [层与块](https://github.com/chenyu313/Deep-learning/blob/main/ch4/19-%E5%B1%82%E4%B8%8E%E5%9D%97.ipynb)
+### [参数管理](https://github.com/chenyu313/Deep-learning/blob/main/ch4/20-%E5%8F%82%E6%95%B0%E7%AE%A1%E7%90%86.ipynb)
+### [自定义层](https://github.com/chenyu313/Deep-learning/blob/main/ch4/21-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%82.ipynb)
+### [读写文件](https://github.com/chenyu313/Deep-learning/blob/main/ch4/22-%E8%AF%BB%E5%86%99%E6%96%87%E4%BB%B6.ipynb)
+### [GPU](https://github.com/chenyu313/Deep-learning/blob/main/ch4/23-GPU.ipynb)
 
 ## end-参考
 ### [References](https://zh.d2l.ai/chapter_preface/index.html)
