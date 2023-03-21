@@ -29,6 +29,9 @@
 ## ch4-深度学习计算
 ### [层与块]()
 ### [参数管理]()
+### [自定义层]()
+### [读写文件]()
+### [GPU]()
 
 ## end-参考
 ### [References](https://zh.d2l.ai/chapter_preface/index.html)
