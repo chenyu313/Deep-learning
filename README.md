@@ -34,9 +34,9 @@
 ### [GPU](https://github.com/chenyu313/Deep-learning/blob/main/ch4/23-GPU.ipynb)
 
 ## ch5-卷积神经网络
-### [从全连接层到卷积]()
-### [图像卷积]()
-### [填充和步幅]()
+### [从全连接层到卷积](https://github.com/chenyu313/Deep-learning/blob/main/ch5/24-%E4%BB%8E%E5%85%A8%E8%BF%9E%E6%8E%A5%E5%B1%82%E5%88%B0%E5%8D%B7%E7%A7%AF.ipynb)
+### [图像卷积](https://github.com/chenyu313/Deep-learning/blob/main/ch5/25-%E5%9B%BE%E5%83%8F%E5%8D%B7%E7%A7%AF.ipynb)
+### [填充和步幅](https://github.com/chenyu313/Deep-learning/blob/main/ch5/26-%E5%A1%AB%E5%85%85%E5%92%8C%E6%AD%A5%E5%B9%85.ipynb)
 
 
 ## ex-pytorch_lightning
