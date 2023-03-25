@@ -33,5 +33,13 @@
 ### [读写文件](https://github.com/chenyu313/Deep-learning/blob/main/ch4/22-%E8%AF%BB%E5%86%99%E6%96%87%E4%BB%B6.ipynb)
 ### [GPU](https://github.com/chenyu313/Deep-learning/blob/main/ch4/23-GPU.ipynb)
 
+## ch5-卷积神经网络
+### [从全连接层到卷积]()
+### [图像卷积]()
+### [填充和步幅]()
+
+
+## ex-pytorch_lightning
+
 ## end-参考
 ### [References](https://zh.d2l.ai/chapter_preface/index.html)
