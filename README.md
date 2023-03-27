@@ -37,8 +37,8 @@
 ### [从全连接层到卷积](https://github.com/chenyu313/Deep-learning/blob/main/ch5/24-%E4%BB%8E%E5%85%A8%E8%BF%9E%E6%8E%A5%E5%B1%82%E5%88%B0%E5%8D%B7%E7%A7%AF.ipynb)
 ### [图像卷积](https://github.com/chenyu313/Deep-learning/blob/main/ch5/25-%E5%9B%BE%E5%83%8F%E5%8D%B7%E7%A7%AF.ipynb)
 ### [填充和步幅](https://github.com/chenyu313/Deep-learning/blob/main/ch5/26-%E5%A1%AB%E5%85%85%E5%92%8C%E6%AD%A5%E5%B9%85.ipynb)
-### [多输入多输出通道]()
-### [汇聚层]()
+### [多输入多输出通道](https://github.com/chenyu313/Deep-learning/blob/main/ch5/27-%E5%A4%9A%E8%BE%93%E5%85%A5%E5%A4%9A%E8%BE%93%E5%87%BA%E9%80%9A%E9%81%93.ipynb)
+### [汇聚层](https://github.com/chenyu313/Deep-learning/blob/main/ch5/28-%E6%B1%87%E8%81%9A%E5%B1%82.ipynb)
 
 
 ## ex-pytorch_lightning
