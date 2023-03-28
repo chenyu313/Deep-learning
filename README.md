@@ -39,6 +39,10 @@
 ### [填充和步幅](https://github.com/chenyu313/Deep-learning/blob/main/ch5/26-%E5%A1%AB%E5%85%85%E5%92%8C%E6%AD%A5%E5%B9%85.ipynb)
 ### [多输入多输出通道](https://github.com/chenyu313/Deep-learning/blob/main/ch5/27-%E5%A4%9A%E8%BE%93%E5%85%A5%E5%A4%9A%E8%BE%93%E5%87%BA%E9%80%9A%E9%81%93.ipynb)
 ### [汇聚层](https://github.com/chenyu313/Deep-learning/blob/main/ch5/28-%E6%B1%87%E8%81%9A%E5%B1%82.ipynb)
+### [卷积神经网络(LeNet)]()
+
+## ch6-循环神经网络
+### [序列模型]()
 
 
 ## ex-pytorch_lightning
