@@ -42,7 +42,7 @@
 ### [卷积神经网络(LeNet)](https://github.com/chenyu313/Deep-learning/blob/main/ch5/29-%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CLeNet.ipynb)
 
 ## ch6-循环神经网络
-### [序列模型]()
+### [序列模型](https://github.com/chenyu313/Deep-learning/blob/main/ch6/30-%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B.ipynb)
 
 
 ## ex-pytorch_lightning
