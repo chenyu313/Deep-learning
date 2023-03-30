@@ -43,9 +43,11 @@
 
 ## ch6-循环神经网络
 ### [序列模型](https://github.com/chenyu313/Deep-learning/blob/main/ch6/30-%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B.ipynb)
+### [文本预处理]()
 
 
-## ex-pytorch_lightning
+## Ex-pytorch_lightning
+### [pytorch-lightning 学习笔记]()
 
-## end-参考
-### [References](https://zh.d2l.ai/chapter_preface/index.html)
+## End-参考
+### [References-https://zh.d2l.ai/chapter_preface/index.html](https://zh.d2l.ai/chapter_preface/index.html)
