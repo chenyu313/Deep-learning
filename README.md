@@ -46,6 +46,8 @@
 ### [文本预处理](https://github.com/chenyu313/Deep-learning/blob/main/ch6/31-%E6%96%87%E6%9C%AC%E9%A2%84%E5%A4%84%E7%90%86.ipynb)
 ### [语言模型与数据集](https://github.com/chenyu313/Deep-learning/blob/main/ch6/32-%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%95%B0%E6%8D%AE%E9%9B%86.ipynb)
 ### [循环神经网络]()
+### [循环神经网络从零开始]()
+### [循环神经网络简洁实现]()
 
 
 ## Ex-pytorch_lightning
