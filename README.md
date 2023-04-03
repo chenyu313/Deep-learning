@@ -45,9 +45,9 @@
 ### [序列模型](https://github.com/chenyu313/Deep-learning/blob/main/ch6/30-%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B.ipynb)
 ### [文本预处理](https://github.com/chenyu313/Deep-learning/blob/main/ch6/31-%E6%96%87%E6%9C%AC%E9%A2%84%E5%A4%84%E7%90%86.ipynb)
 ### [语言模型与数据集](https://github.com/chenyu313/Deep-learning/blob/main/ch6/32-%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%95%B0%E6%8D%AE%E9%9B%86.ipynb)
-### [循环神经网络]()
-### [循环神经网络从零开始]()
-### [循环神经网络简洁实现]()
+### [循环神经网络](https://github.com/chenyu313/Deep-learning/blob/main/ch6/33-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
+### [循环神经网络从零开始](https://github.com/chenyu313/Deep-learning/blob/main/ch6/34-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B.ipynb)
+### [循环神经网络简洁实现](https://github.com/chenyu313/Deep-learning/blob/main/ch6/35-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%AE%80%E6%B4%81%E5%AE%9E%E7%8E%B0.ipynb)
 
 
 ## Ex-pytorch_lightning
