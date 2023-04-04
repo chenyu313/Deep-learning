@@ -48,10 +48,10 @@
 ### [循环神经网络](https://github.com/chenyu313/Deep-learning/blob/main/ch6/33-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
 ### [循环神经网络从零开始](https://github.com/chenyu313/Deep-learning/blob/main/ch6/34-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B.ipynb)
 ### [循环神经网络简洁实现](https://github.com/chenyu313/Deep-learning/blob/main/ch6/35-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%AE%80%E6%B4%81%E5%AE%9E%E7%8E%B0.ipynb)
-### [通过时间反向传播]()
+### [通过时间反向传播](https://github.com/chenyu313/Deep-learning/blob/main/ch6/36-%E9%80%9A%E8%BF%87%E6%97%B6%E9%97%B4%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb)
 
 ## ch7-现代循环神经网络
-### [门控循环单元（GRU）]()
+### [门控循环单元（GRU）](https://github.com/chenyu313/Deep-learning/blob/main/ch7/37-%E9%97%A8%E6%8E%A7%E5%BE%AA%E7%8E%AF%E5%8D%95%E5%85%83.ipynb)
 
 
 ## Ex-pytorch_lightning
