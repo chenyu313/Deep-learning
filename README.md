@@ -52,6 +52,11 @@
 
 ## ch7-现代循环神经网络
 ### [门控循环单元（GRU）](https://github.com/chenyu313/Deep-learning/blob/main/ch7/37-%E9%97%A8%E6%8E%A7%E5%BE%AA%E7%8E%AF%E5%8D%95%E5%85%83.ipynb)
+### [长短期记忆网络（LSTM）]()
+### [深度循环神经网络]()
+### [双向循环神经网络]()
+
+
 
 
 ## Ex-pytorch_lightning
