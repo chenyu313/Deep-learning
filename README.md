@@ -55,7 +55,8 @@
 ### [长短期记忆网络（LSTM）](https://github.com/chenyu313/Deep-learning/blob/main/ch7/38-%E9%95%BF%E7%9F%AD%E6%9C%9F%E8%AE%B0%E5%BF%86%E7%BD%91%E7%BB%9C.ipynb)
 ### [深度循环神经网络](https://github.com/chenyu313/Deep-learning/blob/main/ch7/39-%E6%B7%B1%E5%BA%A6%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
 ### [双向循环神经网络](https://github.com/chenyu313/Deep-learning/blob/main/ch7/40-%E5%8F%8C%E5%90%91%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
-
+### [机器翻译与数据集]()
+### [编码器-解码器架构]()
 
 
 
