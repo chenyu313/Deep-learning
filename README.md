@@ -60,6 +60,9 @@
 ### [序列到序列学习(seq2seq)](https://github.com/chenyu313/Deep-learning/blob/main/ch7/43-seq2seq.ipynb)
 ### [束搜索](https://github.com/chenyu313/Deep-learning/blob/main/ch7/44-%E6%9D%9F%E6%90%9C%E7%B4%A2.ipynb)
 
+## ch8-注意力机制
+### [注意力提示]()
+### [注意⼒汇聚：Nadaraya-Watson 核回归]()
 
 ## Ex-pytorch_lightning
 ### [pytorch-lightning 学习笔记](https://github.com/chenyu313/Deep-learning/blob/main/ex/pytorch-lightning%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb)
