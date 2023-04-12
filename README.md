@@ -63,7 +63,7 @@
 ## ch8-注意力机制
 ### [注意力提示](https://github.com/chenyu313/Deep-learning/blob/main/ch8/45-%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA.ipynb)
 ### [注意⼒汇聚：Nadaraya-Watson 核回归](https://github.com/chenyu313/Deep-learning/blob/main/ch8/46-%E6%B3%A8%E6%84%8F%E2%BC%92%E6%B1%87%E8%81%9A%EF%BC%9ANadaraya-Watson%20%E6%A0%B8%E5%9B%9E%E5%BD%92.ipynb)
-### [注意力评分函数]()
+### [注意力评分函数](https://github.com/chenyu313/Deep-learning/blob/main/ch8/47-%E6%B3%A8%E6%84%8F%E5%8A%9B%E8%AF%84%E5%88%86%E5%87%BD%E6%95%B0.ipynb)
 
 ## Ex-pytorch_lightning
 ### [pytorch-lightning 学习笔记](https://github.com/chenyu313/Deep-learning/blob/main/ex/pytorch-lightning%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb)
