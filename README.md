@@ -65,7 +65,7 @@
 ### [注意⼒汇聚：Nadaraya-Watson 核回归](https://github.com/chenyu313/Deep-learning/blob/main/ch8/46-%E6%B3%A8%E6%84%8F%E2%BC%92%E6%B1%87%E8%81%9A%EF%BC%9ANadaraya-Watson%20%E6%A0%B8%E5%9B%9E%E5%BD%92.ipynb)
 ### [注意力评分函数](https://github.com/chenyu313/Deep-learning/blob/main/ch8/47-%E6%B3%A8%E6%84%8F%E5%8A%9B%E8%AF%84%E5%88%86%E5%87%BD%E6%95%B0.ipynb)
 ### [Bahdanau 注意⼒](https://github.com/chenyu313/Deep-learning/blob/main/ch8/48-Bahdanau%20%E6%B3%A8%E6%84%8F%E2%BC%92.ipynb)
-### [多头注意力]()
+### [多头注意力](https://github.com/chenyu313/Deep-learning/blob/main/ch8/49-%E5%A4%9A%E5%A4%B4%E6%B3%A8%E6%84%8F%E5%8A%9B.ipynb)
 ### [自注意力和位置编码]()
 
 ## Ex-pytorch_lightning
