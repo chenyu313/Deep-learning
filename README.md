@@ -70,8 +70,8 @@
 ### [Transformer](https://github.com/chenyu313/Deep-learning/blob/main/ch8/51-Transformer.ipynb)
 
 ## ch9-优化算法
-### [优化与深度学习]()
-### [凸性]()
+### [优化与深度学习](https://github.com/chenyu313/Deep-learning/blob/main/ch9/52-%E4%BC%98%E5%8C%96%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.ipynb)
+### [凸性](https://github.com/chenyu313/Deep-learning/blob/main/ch9/53-%E5%87%B8%E6%80%A7.ipynb)
 
 ## Ex-pytorch_lightning
 ### [pytorch-lightning 学习笔记](https://github.com/chenyu313/Deep-learning/blob/main/ex/pytorch-lightning%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb)
