@@ -69,6 +69,10 @@
 ### [自注意力和位置编码](https://github.com/chenyu313/Deep-learning/blob/main/ch8/50-%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%92%8C%E4%BD%8D%E7%BD%AE%E7%BC%96%E7%A0%81.ipynb)
 ### [Transformer](https://github.com/chenyu313/Deep-learning/blob/main/ch8/51-Transformer.ipynb)
 
+## ch9-优化算法
+### [优化与深度学习]()
+### [凸性]()
+
 ## Ex-pytorch_lightning
 ### [pytorch-lightning 学习笔记](https://github.com/chenyu313/Deep-learning/blob/main/ex/pytorch-lightning%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb)
 
