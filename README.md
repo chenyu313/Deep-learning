@@ -75,6 +75,7 @@
 ### [凸性](https://github.com/chenyu313/Deep-learning/blob/main/ch9/53-%E5%87%B8%E6%80%A7.ipynb)
 ### [梯度下降](https://github.com/chenyu313/Deep-learning/blob/main/ch9/54-%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb)
 ### [随机梯度下降](https://github.com/chenyu313/Deep-learning/blob/main/ch9/55-%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb)
+### [⼩批量随机梯度下降]()
 
 ## Ex-pytorch_lightning
 ### [pytorch-lightning 学习笔记](https://github.com/chenyu313/Deep-learning/blob/main/ex/pytorch-lightning%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb)
