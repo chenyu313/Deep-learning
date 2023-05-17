@@ -85,6 +85,8 @@
 ### [预训练word2vec]()
 ### [全局向量词嵌入]()
 ### [子词嵌入]()
+### [词的相似性和类比任务]()
+### [来⾃Transformers的双向编码器表⽰（BERT）]()
 
 ## Ex-pytorch_lightning
 ### [pytorch-lightning 学习笔记](https://github.com/chenyu313/Deep-learning/blob/main/ex/pytorch-lightning%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb)
